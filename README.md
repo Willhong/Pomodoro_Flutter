@@ -1,4 +1,4 @@
-# toonflex
+# Pomodoro
 
 A new Flutter project.
 
